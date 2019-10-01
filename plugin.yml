@@ -1,0 +1,7 @@
+name: PluginBase
+author: YellowPhoenix18
+version: 0.1
+
+main: de.yellowphoenix18.pluginbase.PluginBase
+
+commands:
